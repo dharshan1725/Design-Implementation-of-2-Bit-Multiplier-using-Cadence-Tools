@@ -7,6 +7,8 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+![image](https://github.com/user-attachments/assets/c27ed6d1-ea17-4f43-9149-eb73fb177a5b)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -48,7 +50,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![image](https://github.com/user-attachments/assets/84691f39-d446-4b09-8ef4-ffefc9e8adad)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +67,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![image](https://github.com/user-attachments/assets/9fe017b4-84fe-4087-b4a6-5de56304741b)
 
 
 
@@ -80,7 +82,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![image](https://github.com/user-attachments/assets/d1107724-2941-46c3-ac34-8c841c338ffe)
 
  
 
@@ -95,14 +97,14 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![image](https://github.com/user-attachments/assets/be6d869e-5229-4de8-8b22-57b263dc3d0f)
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![image](https://github.com/user-attachments/assets/069d2c99-9c37-41e5-8ccf-16926b12ab31)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![image](https://github.com/user-attachments/assets/ca6e8bdc-0493-470b-a831-ed781f8281d1)
 
   
 
